@@ -61,3 +61,11 @@ h6 {
   max-width: 40em;
   margin: 0 auto;
 }
+.footer_theme {
+  padding-top: 25px;
+  border-top: 1px solid black;
+}
+.header_theme {
+  padding-bottom: 25px;
+  border-bottom: 1px solid black;
+}
