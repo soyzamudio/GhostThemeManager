@@ -69,3 +69,19 @@ h6 {
   padding-bottom: 25px;
   border-bottom: 1px solid black;
 }
+.header_h1 {
+  padding-top: 20%;
+  color: #fff;
+  font-size: 4em;
+  font-weight: 600;
+}
+.header_h3 {
+  margin-top: 10px;
+  padding-bottom: 20%;
+  color: #fff;
+  font-size: 1.2em;
+  font-weight: 300;
+}
+#content {
+  margin-top: 5%;
+}
